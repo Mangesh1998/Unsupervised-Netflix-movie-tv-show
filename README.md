@@ -1,4 +1,5 @@
 UNSUPERVISED-NETFLIX-MOVIE-TV-SHOW
+![image](https://github.com/Mangesh1998/Unsupervised-Netflix-movie-tv-show/assets/122073772/aab92a16-514c-4bc6-8b75-60fec39094c4)
 
 To ensure an optimal user experience and prevent subscriber churn, it is essential for Netflix, the world's leading online streaming service provider with over 220 million subscribers as of 2022, to effectively cluster the shows on their platform..
 
